@@ -9,6 +9,6 @@ Navigate between split windows using the keyboard.
 - OS X
 	-  + alt + up
 	-  + alt + down
-- Linus/Window
+- Linux/Window
 	- ctrl + alt + up
 	- ctrl + alt + down
