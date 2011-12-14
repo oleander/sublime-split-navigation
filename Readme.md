@@ -1,6 +1,6 @@
 # Split Navigation
 
-A [Sublime 2](http://www.sublimetext.com/) plugin.
+A [Sublime Text 2](http://www.sublimetext.com/) plugin.
 
 Navigate between split windows using the keyboard.
 
